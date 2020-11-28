@@ -1,0 +1,1 @@
+# QIWI-my.version-
